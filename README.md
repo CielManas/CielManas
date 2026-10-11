@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Kaden
+I'm currently a high school senior, in SoCal. I do research and compete in Cyber Security competitions.
 
 <!--
 **CielManas/CielManas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
